@@ -15,8 +15,11 @@ The experiments have been carried out with a group of 30 volunteers within an ag
 
 The following data sets and variables within are leveraged:
         1. 'features.txt': List of all features. (561 variable names)
+        
         2. 'train/X_train.txt': Training set. (7352 observations, 561 variables)
+        
         3. 'train/y_train.txt': Training labels.  (6 labels for activities)
+        
         4. 'test/X_test.txt': Test set.  (2947 observations, 561 variables)
         5. 'test/y_test.txt': Test labels. (6 labels for activities)
         6. 'train/subject_train.txt': Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. (1:30 label for subject)
