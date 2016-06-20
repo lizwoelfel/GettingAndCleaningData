@@ -7,11 +7,11 @@ output: html_document
 ###GETTING AND CLEANING DATA
 ---
 ##CODE BOOK
-#The purpose of this code book is to describe the variables, the data, and transformations
-#performed to complete the Getting and Cleaning Data Course Project
+The purpose of this code book is to describe the variables, the data, and transformations
+performed to complete the Getting and Cleaning Data Course Project
 
 ##VARIABLES & DATA
-#The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, we captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. The experiments have been video-recorded to label the data manually. The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data. 
+The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, we captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. The experiments have been video-recorded to label the data manually. The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data. 
 
 #The following data sets and variables within are leveraged:
         #- 'features.txt': List of all features. (561 variable names)
