@@ -76,5 +76,5 @@ colnames(filtered.merged.data) <- filtered.names.relabel
 filtered.merged.data$subject <- as.factor(filtered.merged.data$subject)
 tidy.data <- aggregate(. ~subject + activity, filtered.merged.data, mean)
 tidy.data <- tidy.data[order(tidy.data$subject,tidy.data$activity),]
-write.csv(tidy.data, file = "tidy.data.csv", row.names = FALSE)
+write.table(tidy.data, file = "tidy.data.txt", row.names = FALSE)
 
