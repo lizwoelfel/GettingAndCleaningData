@@ -13,7 +13,7 @@ and clean a data set. The goal is to prepare tidy data that can be used for late
 #Submitted in this repo are: 
         1. R Script for performing the analysis (run_analysis.R) 
         2. A Code book that provides more detail on the script (CodeBook.md) 
-        3. The output from the script which is a tidy data set (tidy.data.csv)
+        3. The output from the script which is a tidy data set (tidy.data.txt)
 
 #Before running the R script, you must: 
         Download the zip file from
